@@ -11,6 +11,10 @@ namespace PROG8170_Assignment1
         static void Main(string[] args)
         {
 
+            Rectangle rectangle = new Rectangle();
+
+            Console.WriteLine(rectangle.GetLength().ToString());
+            Console.ReadKey();
         }
     }
 }
