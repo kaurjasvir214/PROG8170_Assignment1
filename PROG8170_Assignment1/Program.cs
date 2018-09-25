@@ -110,7 +110,7 @@ namespace PROG8170_Assignment1
             do
             {
                 repeatMenuAgain = false;
-                Console.WriteLine("Please selected an option");
+                Console.WriteLine("Please select an option");
                 Console.WriteLine();
                 Console.WriteLine("1. Get Rectangle Length");
                 Console.WriteLine("2. Change Rectangle Length");
